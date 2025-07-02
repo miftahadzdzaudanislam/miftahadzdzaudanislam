@@ -1,4 +1,4 @@
-name: Generate Contribution Graph
+name: Generate Snake
 
 on:
   # Runs on pushes targeting the default branch
@@ -12,17 +12,8 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
   generate:
@@ -33,18 +24,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake game
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#7c3aed&color_dots=#161b22,#0e1117,#40c463,#30a14e,#216e39
+          github_user_name: miftahadzdzaudanislam
+          outputs: docs/pacman-contribution-graph.svg
 
-      - name: Push to docs folder in main
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: main
-          folder: dist
-          target-folder: docs
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/
+          git diff --staged --quiet || git commit -m "Update snake animation"
+          git push
