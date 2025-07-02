@@ -57,7 +57,11 @@
 
 ### 🕹️ Contribution Graph
 
-![Snake animation](https://github.com/miftahadzdzaudanislam/miftahadzdzaudanislam/blob/main/docs/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miftahadzdzaudanislam/miftahadzdzaudanislam/main/docs/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miftahadzdzaudanislam/miftahadzdzaudanislam/main/docs/pacman-contribution-graph.svg">
+  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/miftahadzdzaudanislam/miftahadzdzaudanislam/main/docs/pacman-contribution-graph.svg">
+</picture>
 
 ---
 

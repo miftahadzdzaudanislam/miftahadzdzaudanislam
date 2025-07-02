@@ -28,7 +28,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: miftahadzdzaudanislam
-          outputs: docs/pacman-contribution-graph.svg
+          outputs: |
+            docs/pacman-contribution-graph.svg
+            docs/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Commit and push
         run: |
