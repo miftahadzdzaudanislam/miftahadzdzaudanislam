@@ -53,6 +53,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftahadzdzaudanislam&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=miftahadzdzaudanislam&theme=radical" height="150"/>
+</div>
+
 ---
 
 ### 🕹️ Contribution Graph
