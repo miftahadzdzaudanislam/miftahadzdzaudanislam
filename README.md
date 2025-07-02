@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miftahdzikri&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miftahadzdzaudanislam&show_icons=true)
 
 <!--
 **miftahadzdzaudanislam/miftahadzdzaudanislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
