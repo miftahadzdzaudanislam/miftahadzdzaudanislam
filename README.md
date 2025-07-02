@@ -69,9 +69,7 @@
 
 ---
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F0eDNscXdhM2c0d3RwNHluMGZpYjQ3Y3Rma2pnaHZ0NngzNzlxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/39GAXpLVKvYRO/giphy.gif" />
-
----
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F0eDNscXdhM2c0d3RwNHluMGZpYjQ3Y3Rma2pnaHZ0NngzNzlxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/39GAXpLVKvYRO/giphy.gif" /> 
 
 ### 📫 Let's Connect!
 - Email: [miftahdzaudan@gmail.com](mailto:miftahdzaudan@gmail.com)
