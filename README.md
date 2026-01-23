@@ -14,26 +14,27 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Web
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React JS](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![Express JS](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Java Swing](https://img.shields.io/badge/-Java%20Swing-007396?logo=java&logoColor=white)
+💻 Web
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![React JS](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) 
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
+![Java Swing](https://img.shields.io/badge/-Java%20Swing-007396?logo=java&logoColor=white) ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 
-#### 🗄️ Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+🗄️ Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-#### 🔧 Tools
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/-Office-EB3C00?logo=microsoft-office&logoColor=white)
+🔧 Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
+![Microsoft Office](https://img.shields.io/badge/-Office-EB3C00?logo=microsoft-office&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
