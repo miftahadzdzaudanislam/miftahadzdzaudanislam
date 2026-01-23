@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-💻 Web
+#### 💻 Web
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
@@ -25,11 +25,11 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
 ![Java Swing](https://img.shields.io/badge/-Java%20Swing-007396?logo=java&logoColor=white) ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 
-🗄️ Database
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-🔧 Tools
+### 🔧 Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
